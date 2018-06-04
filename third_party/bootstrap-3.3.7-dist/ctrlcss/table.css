@@ -1,0 +1,12 @@
+table {
+    table-layout: fixed;
+}
+
+td {
+    /*    WORD-WRAP: break-word;
+        width: 20px;*/
+    /*自动隐藏*/
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

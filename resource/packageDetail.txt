@@ -1,0 +1,2 @@
+GW_server.war=/opt/tomcat/webapps=name:GWWar,package:bz2,OS:linux,catalog:Apps=GWWar.bz2.00.exe
+AutoUpdate.war=opt/tomcat_autoupdate/webapps=name:AutoUpdateWar,package:bz2,OS:linux,catalog:Apps=AutoUpdateWar.bz2.00.exe
